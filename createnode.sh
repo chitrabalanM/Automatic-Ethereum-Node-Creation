@@ -1,6 +1,14 @@
+#!/bin/bash
+
+## DESCRIPTION: 
+
+## AUTHOR: CHITRABALAN M
+
+
 sudo pkill -9 bootnode
 sudo pkill -9 geth
 sudo pkill -9 constellation
+
 mkdir Node-Creation && cd Node-Creation
 sudo apt-get install libdb-dev libleveldb-dev libsodium-dev zlib1g-dev libtinfo-dev
 wget https://gethstore.blob.core.windows.net/builds/geth-alltools-linux-amd64-1.10.15-8be800ff.tar.gz
