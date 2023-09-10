@@ -1,3 +1,4 @@
-# Automatic-Ethereum-Node-Creation-
-Ethereum Node created automatically by running shell script
-Run createnode.sh as sudo user
+# Automatic-Ethereum-Node-Creation
+Ethereum Node created will be created automatically by running shell script <br>
+Run `chmod +x createnode.sh` <br>
+Run  `sudo ./createnode.sh` <br>
