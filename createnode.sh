@@ -2,7 +2,7 @@
 
 ## DESCRIPTION: 
 
-## AUTHOR: CHITRABALAN M
+## AUTHOR: CHITRABALAN M (mchitrabalan@gmail.com)
 
 
 sudo pkill -9 bootnode
